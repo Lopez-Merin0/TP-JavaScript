@@ -1,7 +1,6 @@
 // Lopez_Maria.js - Maria Fernanda Lopez Merino
 // Sistema de Gestión de Biblioteca
 
-// ------------------------------
 // Punto 1: Estructura de datos principales para la biblioteca
 
 // Lista de libros disponibles, organizados por saga o autor
